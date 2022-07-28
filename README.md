@@ -34,7 +34,8 @@
     代手工取得特徵。
     <img width="350px" src="https://aifinpitchtw.com/upload/article/%E5%9C%96%E7%89%87%202.png">
     <p style="font-size: 50px; margin: 0px; margin-bottom: 0px;">三、參考資料</p>
-    <pre style="font-size: 35px; line-height: 1.3; margin-top: -50px; margin-bottom: -45px;"><初階>【北市教育局證書】【開放課程】Hello AI ! 你的第一門人工智慧課!
+    <pre style="font-size: 35px; line-height: 1.3; margin-top: -50px; margin-bottom: -45px;"><初階>【北市教育局證書】【開放課程】Hello AI ! 你的
+第一門人工智慧課!
 文字介紹-取自維基百科
 網站語法學習-
 <a style="font-size: 35px;" href="https://mtache.com/css" target="_blank">8個章節 - 由淺入深學習CSS</a> 
